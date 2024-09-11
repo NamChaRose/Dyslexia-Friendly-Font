@@ -11,4 +11,7 @@ This project is an intended font that enhances the readability by those with dys
 >- The v with a dash below it is visually separated from u, while the w with a dash helps differentiate it from m.
 ### Visual Anchoring
 >- Dashes below certain letters are used as an anchor, to guide the readers to the right position while identifying a word. This feature is useful where there are long sentences and there is a confusion between two or more letters hence one is likely to read wrong word all together.
-
+### Familiar, Yet Distinct
+>- The letters might look stylized but the font used is not so unconventional as to fall far away from traditional kind. This balance makes it possible for the users not to be shocked by drastic changes while still being able to enjoy other changes that make the differentiation possible.
+### Font Design tool used
+>- [Calligraphr](https://www.calligraphr.com/en/) (an online platform for designing fonts)
